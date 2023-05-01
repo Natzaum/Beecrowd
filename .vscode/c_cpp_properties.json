@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "mingw",
+            "includePath": [
+                "C:/Programação/MinGW/mingw32/bin",
+                "C:/Programação/MinGW/mingw32/lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "C:/Programação/MinGW/mingw32/bin"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
