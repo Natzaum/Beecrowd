@@ -2,6 +2,8 @@
 Exercicios resolvidos em C++.
 
 <ul>
-    <li>ID: 1050 -> numeros pares;</li>
+    <li>ID: 1050 -> Números pares;</li>
     <li>ID: 1060 -> Números Positivos;</li>
+    <li>ID: 1064 -> Positivos e Média;</li>
+    <li>ID: 1065 -> Pares entre Cinco Números;</li>
 </ul>
