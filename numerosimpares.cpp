@@ -13,6 +13,6 @@ int main() {
         }
         valor++;
     }
-
+    cout << valor << endl;
     return 0;
 }
