@@ -12,4 +12,5 @@ Exercicios resolvidos em C++.
     <li>ID: 1098 -> Sequencia IJ 4;</li>
     <li>ID: 1095 -> Sequencia IJ 1;</li>
     <li>ID: 1096 -> Sequencia IJ 2;</li>
+    <li>ID: 1097 -> Sequencia IJ 3;</li>
 </ul>
