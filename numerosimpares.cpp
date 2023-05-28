@@ -2,16 +2,12 @@
 using namespace std;
 
 int main() {
-    int valor, valor6 = 0;
-
+    int valor;
     cin >> valor;
-
-    while(valor6 < 6){
-        if(valor % 2 == 1){
-            cout << valor << endl;
-            valor6++;
+    for(int A = 1; A <= valor; A++){
+        if(A % 2 == 1){
+            cout << A << endl;
         }
-        valor++;
     }
 
     return 0;
