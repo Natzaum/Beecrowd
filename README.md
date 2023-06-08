@@ -18,4 +18,5 @@ Exercicios resolvidos em C++.
     <li>ID: 1078 -> Tabuada;</li>
     <li>ID: 1075 ->	Resto 2;</li>
     <li>ID: 1073 -> Quadrado de Pares;</li>
+    <li>ID: 1101 ->	Sequência de Números e Soma;</li>
 </ul>
