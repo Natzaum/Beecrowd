@@ -24,4 +24,5 @@ Exercicios resolvidos em C++.
     <li>ID: 1115 ->	Quadrante;</li>
     <li>ID: 1116 ->	Dividindo X por Y;</li>
     <li>ID: 1116 -> Validação de Nota;</li>
+    <li>ID: 1172 -> Substituição em Vetor I;</li>
 </ul>
