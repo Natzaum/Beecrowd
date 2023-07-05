@@ -26,5 +26,6 @@ Exercicios resolvidos em C++.
     <li>ID: 1116 -> Validação de Nota;</li>
     <li>ID: 1172 -> Substituição em Vetor I;</li>
     <li>ID:	1173 -> Preenchimento de Vetor I</li>
+    
 </ul>
 
