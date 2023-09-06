@@ -8,6 +8,7 @@ Exercicios resolvidos em C++.
     <li>ID: 1065 -> Pares entre Cinco Números;</li>
     <li>ID: 1066 -> Pares, Ímpares, Positivos e Negativos;</li>
     <li>ID: 1067 -> Números Ímpares;</li>
+    
     <li>ID: 1079 -> Médias ponderadas;</li>
     <li>ID: 1098 -> Sequencia IJ 4;</li>
     <li>ID: 1095 -> Sequencia IJ 1;</li>
